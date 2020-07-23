@@ -3,7 +3,7 @@ import "../components/style.css"
 function Footer() {
   return (
     <div className="footer">
-      <p>Footer</p>
+      <p>Contact: adams.jd10@gmail.com</p>
     </div>
   )
 }

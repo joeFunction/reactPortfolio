@@ -3,7 +3,7 @@
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: red;
+  background-color: hsla(50, 33%, 25%, .75);
   color: white;
   text-align: center;
 }

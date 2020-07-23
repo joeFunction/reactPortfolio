@@ -12,8 +12,9 @@ const Contact = () => (
       <br></br>
       <br></br>
       <h4>Email: adams.jd10@gmail.com</h4>
-
     </p>
+    <a href="https://github.com/joeFunction" target="_blank" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Git Hub</a>
+    <a href="https://www.linkedin.com/in/joe-adams-849a5398/" target="_blank" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">LinkedIn</a>
   </div>
 );
 
